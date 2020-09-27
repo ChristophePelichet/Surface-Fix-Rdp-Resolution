@@ -9,7 +9,7 @@
 Version 1.0                                                                                                                                                                                                
 
 .SYNOPSIS
-    Surface_Fix_RDP_Resolution.ps1 - Fix RDP session resolution on the MS Sruface.
+    Surface_Fix_RDP_Resolution.ps1 - Fix RDP session resolution on the MS Surface.
 
 .DESCRIPTION
 	A resolution issue affects Surface tablets during an RDS session. In order to correct the problem we add a key in the registry and copy a file
